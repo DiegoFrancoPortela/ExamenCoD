@@ -1,7 +1,7 @@
 package com.cod;
 
 /**
- * @author Diego Franco Portela
+ * @author Diego Franco Portela.
  * @version 1.0
  */
 
